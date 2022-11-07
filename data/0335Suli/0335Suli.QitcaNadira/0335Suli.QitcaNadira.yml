@@ -4,16 +4,16 @@
 10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
-    followed by abbreviation for relation type between brackets (see
-    book_relations repo). Only include relations with older books. Separate
-    related books with semicolon.
+40#BOOK#RELATED##: 0335Suli.Awraq (PART)
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: This text is part of al-Ṣūlī's Kitāb al-Awrāq,
+    edited by Hilāl Nājī from the Azhar manuscript no. 487 Khāṣṣ - 7083 Abāẓa Adab;
+    the edited fragment covers the years 316-318 (folios 163B-186A).
+    The years 295-315AH (folios 1A-162B from the same manuscript) 
+    were edited separately, also by Hilāl Nājī, in the year 2000
+    (https://worldcat.org/en/title/45148905). Together, these parts
+    cover almost all of al-Muqtadir's reign (r. 295-320).
