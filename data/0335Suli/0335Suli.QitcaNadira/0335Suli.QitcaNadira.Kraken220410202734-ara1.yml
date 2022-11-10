@@ -5,10 +5,14 @@
 80#VERS#COLLATED#:
 80#VERS#LINKS####:
 90#VERS#ANNOTATOR:
-90#VERS#COMMENT##: OCRed through Kraken:
+90#VERS#COMMENT##: This text file contains a fragment of al-Ṣūlī's
+    incomplete Kitāb al-Awrāq
+    edited by Hilāl Nājī from the Azhar manuscript no. 487 Khāṣṣ - 7083 Abāẓa Adab;
+    the edited fragment covers the years 316-318 (folios 163B-186A).
+    OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
     NOTE: PDF provided by Letizia Osti
 90#VERS#DATE#####: 2022-04-10
-90#VERS#ISSUES###: UNCORRECTED_OCR
+90#VERS#ISSUES###: UNCORRECTED_OCR, PARTIAL_TEXT
