@@ -6,5 +6,8 @@
 80#VERS#LINKS####: none
 90#VERS#ANNOTATOR: LMN
 90#VERS#COMMENT##: Attention ==> page numbers on top of the page!
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-01
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

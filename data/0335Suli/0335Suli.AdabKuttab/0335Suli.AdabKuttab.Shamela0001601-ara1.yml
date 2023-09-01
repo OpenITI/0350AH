@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://ketabpedia.com/تحميل/أدب-الكتاب-المطبعة-السلفية-بمصر/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- Pages 20-21 of the PDF (i.e. the introduction of
-    the author) are missing. 2- The editorial section at the end of the book
-    is the note of the scribe.
+        the author) are missing. 2- The editorial section at the end of the book
+        is the note of the scribe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-12-11
-90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

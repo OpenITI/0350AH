@@ -6,12 +6,15 @@
 80#VERS#LINKS####: https://archive.org/details/01-52287/01_52287
 90#VERS#ANNOTATOR: Cornelia Neubauer (Leipzig); review > MAROUSSIA
 90#VERS#COMMENT##: annotation completed. no changes were made. the
-    fihris of both volumes is included in the text.  More details are in
-    `README.md`
-    NOTE OF THE REVIEWER (HRH): All headers were first-level. I added two first-
-    level titles (‘al-qism al-awwal’ and ‘al-qism al-ṯānī) and changed the levelling
-    of the rest of the headers according to the alphabetical letters. 2- Editorial
-    sections tagged and deleted. 3- The numbers of biographical tags checked by
-    Peter’s script.
+        fihris of both volumes is included in the text.  More details are in
+        `README.md`
+        NOTE OF THE REVIEWER (HRH): All headers were first-level. I added two first-
+        level titles (‘al-qism al-awwal’ and ‘al-qism al-ṯānī) and changed the levelling
+        of the rest of the headers according to the alphabetical letters. 2- Editorial
+        sections tagged and deleted. 3- The numbers of biographical tags checked by
+        Peter’s script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-17
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

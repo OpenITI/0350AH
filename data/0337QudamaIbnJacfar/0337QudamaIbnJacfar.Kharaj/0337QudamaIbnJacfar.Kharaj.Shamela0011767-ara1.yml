@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-الخراج-وصناعة-الكتابة-pdf
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: PV tagged editorial sections and section headers.
-    PV cleaned and formatted the tables on pages 163ff
-    and added some subheadings between square brackets to emphasize
-    the structure of the text.
-    NOTE OF THE REVIEWER (HRH): Editorial removed. Changed the levelling of the
-    header in PageV01P039 to third-level.
+        PV cleaned and formatted the tables on pages 163ff
+        and added some subheadings between square brackets to emphasize
+        the structure of the text.
+        NOTE OF THE REVIEWER (HRH): Editorial removed. Changed the levelling of the
+        header in PageV01P039 to third-level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-08-04
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

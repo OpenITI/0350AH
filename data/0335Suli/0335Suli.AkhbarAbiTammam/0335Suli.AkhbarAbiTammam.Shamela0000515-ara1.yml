@@ -6,14 +6,17 @@
 80#VERS#LINKS####: http://www.ar.islamic-sources.com/book/أخبار-أبي-تمام/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- There is no data in METADATA section that shows
-    which edition is used. Although the edition I have used is different
-    from the Editpro edition, it is very similar to it and I didn’t see any
-    major differences. Another (different) edition can be found here:
-    https://www.libraryofarabicliterature.org/assets/Gruendler-The-Life-and-
-    Times-of-Abu-Tammam-Arabic-only-1.pdf. 2- The first treatise (“رسالة
-    الصولي إلى مزاحم بن فاتك”) in the PDF has a title in the beginning of
-    the text but it has no content. I guess that it must have been
-    intentionally removed from the text by our corpus manager since it is
-    not part of the main text. So I do not consider it a missing part.
+        which edition is used. Although the edition I have used is different
+        from the Editpro edition, it is very similar to it and I didn’t see any
+        major differences. Another (different) edition can be found here:
+        https://www.libraryofarabicliterature.org/assets/Gruendler-The-Life-and-
+        Times-of-Abu-Tammam-Arabic-only-1.pdf. 2- The first treatise (“رسالة
+        الصولي إلى مزاحم بن فاتك”) in the PDF has a title in the beginning of
+        the text but it has no content. I guess that it must have been
+        intentionally removed from the text by our corpus manager since it is
+        not part of the main text. So I do not consider it a missing part.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-12-11
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
