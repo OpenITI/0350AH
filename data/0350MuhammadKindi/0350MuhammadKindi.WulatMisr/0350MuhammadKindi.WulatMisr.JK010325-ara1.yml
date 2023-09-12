@@ -6,9 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/Wolat_Misr
 90#VERS#ANNOTATOR: LeipzigTeam
 90#VERS#COMMENT##: The text has been tagged before; no proper YML file.
-       NOTE OF THE REVIEWER (HRH): No chanages.
+    NOTE OF THE REVIEWER (HRH): No chanages.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0350MuhammadKindi/0350MuhammadKindi.WulatMisr/0350MuhammadKindi.WulatMisr.JK010325-ara1.mARkdown
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
