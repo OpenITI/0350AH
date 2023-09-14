@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 64143
-00#VERS#LENGTH###: 14677
+00#VERS#CLENGTH##: 62884
+00#VERS#LENGTH###: 14392
 00#VERS#URI######: 0340IbnDaya.TafsirKitabThamara.PAL075601135-ara1
 80#VERS#BASED####: http://ptolemaeus.badw.de/work/191
 80#VERS#COLLATED#: http://ptolemaeus.badw.de/work/191
@@ -22,6 +22,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0340IbnDaya/0340IbnDaya.TafsirKitabThamara/0340IbnDaya.TafsirKitabThamara.PAL075601135-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-
+    clean/data/0340IbnDaya/0340IbnDaya.TafsirKitabThamara/0340IbnDaya.TafsirKitabThamara.PAL075601135-ara1.completed
 90#VERS#DATE#####: 2020-12-02
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
