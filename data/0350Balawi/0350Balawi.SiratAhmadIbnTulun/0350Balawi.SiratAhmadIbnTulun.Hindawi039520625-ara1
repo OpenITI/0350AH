@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0350Balawi.SiratAhmadIbnTulun.Hindawi39520625",
-    "BookCats": "history :: biographies",
-    "BookID": "39520625",
-    "BookTitle": "سيرة أحمد بن طولون",
-    "AuthorID": "57905741",
-    "AuthorNam": "أبو محمد عبد الله بن محمد المديني البلوي",
-    "EditorID": "59604649",
-    "EditorNam": "محمد كرد علي",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0350Balawi.SiratAhmadIbnTulun.Hindawi39520625
+#META# Tags: history :: biographies
+#META# ID: 39520625
+#META# Title: سيرة أحمد بن طولون
+#META# AuthorID: 57905741
+#META# Author: أبو محمد عبد الله بن محمد المديني البلوي
+#META# EditorID: 59604649
+#META# Editor: محمد كرد علي
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
