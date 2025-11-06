@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0346Mascudi
 10#AUTH#ISM####AR: ʿAlī
 10#AUTH#KUNYA##AR: Abū-al-Ḥasan
-10#AUTH#LAQAB##AR:
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. al-Ḥusayn b. ʿAlī
 10#AUTH#NISBA##AR: al-Masʿūdī
 10#AUTH#SHUHRA#AR: al-Masʿūdī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0346-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q168705
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. al-Ḥusayn , Arab writer whose
     activity, in the words of Brockelmann (in EI 1, s.v.) “has been undertaken

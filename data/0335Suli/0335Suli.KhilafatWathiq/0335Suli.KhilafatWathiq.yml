@@ -8,15 +8,16 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: A fragment of al-Ṣūlī's unfinished work that 
+90#BOOK#COMMENT##: A fragment of al-Ṣūlī's unfinished work that
     is referred to as Kitāb al-Awrāq. This fragment covers
     the caliphates of al-Wāthiq (r. 227-232),
-    al-Mutawakkil (r. 232-247), al-Muntaṣir (r. 247-248), 
+    al-Mutawakkil (r. 232-247), al-Muntaṣir (r. 247-248),
     al-Mustaʿīn (r. 248-252), al-Muʿtazz (r. 252-255) and al-Muhtadī (r. 255-256).
     This manuscript was edited by Kratchkovsky's student Belyaev (d. 1976)
     but never published; finally, Belyaev's student Anas Khalidov published it,

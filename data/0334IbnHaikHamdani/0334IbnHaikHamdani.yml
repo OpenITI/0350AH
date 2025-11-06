@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0334-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q970628
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū Muḥammad al-Ḥasan b. Aḥmad b. Yaʿḳūb b. Yūsuf b. Dāwūd b. Sulaymān Ḏh̲i ’l-Dumayna al-Bakīlī al-Arḥabī , often named Ibn D̲h̲i/Abi ’l-Dumayna or Ibn al-Ḥāʾik “The weaver’s (i.e., the poet’s) son” after his ancestor Sulaymān, who was a poet (cf. Iklīl , x, 197), South-Arabian scholar, most famous as antiquarian, genealogist, geographer and poet.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_2666

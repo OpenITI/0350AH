@@ -14,5 +14,7 @@
 30#AUTH#DIED###AH: 0329-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q2973730
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: EI2: "b. YaʿḲūb b. Isḥāḳ al-Rāzī , Imāmī traditionist. He originated from a village located 38 km. southwest of Rayy in the district of ¶ Pas̲h̲āpūya whose Persian name Kolēn, with imāla , was Arabicised as Kulayn and Kulīn. His nisba is thus variously given in the sources as al-Kulaynī, al-Kulīnī, or, erroneously, al-Kalīnī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_4495
+90#AUTH#COMMENT##: EI2: "b. YaʿḲūb b. Isḥāḳ al-Rāzī , Imāmī traditionist. He originated from a village located 38 km. southwest of Rayy in the district of
+    Pas̲h̲āpūya whose Persian name Kolēn, with imāla , was Arabicised as Kulayn and Kulīn. His nisba is thus variously given in the sources as al-Kulaynī, al-Kulīnī, or, erroneously, al-Kalīnī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_4495
